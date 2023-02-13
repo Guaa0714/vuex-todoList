@@ -1,3 +1,8 @@
 # vuex-todoList 
 
-## Build Steps
+## Build Setup
+```
+npm install
+
+npm run serve
+```
