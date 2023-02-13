@@ -1,1 +1,3 @@
-# vuex-todoList
+# vuex-todoList 
+
+## Build Steps
