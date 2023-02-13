@@ -1,6 +1,5 @@
 <template>
     <div>
-        <h1>-----Add Task-----</h1>
         <div class="row">
             <input @change="taskNameChange" v-bind:value="taskName" class="col form-control mx-2" type="text" />
             <button @click="addEveryTask" class="col-auto btn btn-primary">Add</button>

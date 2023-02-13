@@ -1,8 +1,4 @@
 <template>
-  <!--
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  -->
   <div id="app" class="container">
     <AddTask />
     <MyTask />
